@@ -67,8 +67,8 @@ Key Insights:
 ## 🌐 Connect With Me
 
 📧 Email: r.hender91@yahoo.com 
-🔗 LinkedIn: [[linkedin.com/in/yourprofile](#)  ](https://www.linkedin.com/in/ruth-gootee-0a1004aa/)
-📊 Tableau Public: [[tableaupublic.com/profile/yourprofile](#)](https://public.tableau.com/app/profile/ruth.gootee/vizzes)
+🔗 LinkedIn: (https://www.linkedin.com/in/ruth-gootee-0a1004aa/)
+📊 Tableau Public: (https://public.tableau.com/app/profile/ruth.gootee/vizzes)
 
 ---
 
